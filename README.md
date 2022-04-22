@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lavallan
 - 👀 I’m interested in reading, playing video games and programming
-- 🌱 I’m currently learning Python, Cpp, Css, Html and Php
+- 🌱 I’m currently learning Python and C++ as well as Web Development
 - 💞️ I’m looking to collaborate on interesting projects
 
 <!---
